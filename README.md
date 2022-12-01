@@ -14,11 +14,21 @@ You can get airdrop and test protocol on [vision faucet](https://vpioneerfaucet.
 
 **CometFactory**
 
+**Len**
+[visit on visionscan](https://test.visionscan.org/token20/VXaS2c17AZvanQVQeEregkxm5t14nbrNuM)
+```
+base58: VXaS2c17AZvanQVQeEregkxm5t14nbrNuM
+hex: 46E572AA463B8AB3D922F52C67A016C5F40B8CD9EE
+```
+
 [visit on visionscan](https://www.visionscan.org/contract/VRdGXhExMUd9x4NCGAq1v9H1keFveqeX26/code)
 ```
 base58: VRdGXhExMUd9x4NCGAq1v9H1keFveqeX26
 hex: 46a42b3abb0519fad59ad4088beb3d7d1c11aef1cb
 ```
+
+
+
 
 ### mainnet:
 ```
